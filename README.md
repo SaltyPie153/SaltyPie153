@@ -10,13 +10,11 @@
   <sub>GyeongHoon Kang &nbsp;·&nbsp; Seoul</sub>
 </p>
 
-<p align="center">☁️ &nbsp; 🩵 &nbsp; ✨ &nbsp; 🩷 &nbsp; ☁️</p>
-
 <br />
 
-### 🫧 작은 소개
+### 🫧 소개
 
-이곳에 프로젝트와 배움의 흔적을 차곡차곡 모아둡니다.
+이곳에 프로젝트와 대회기록, 역사를 모아둡니다.
 
 ### 🗂️ 프로젝트 모음
 
@@ -32,5 +30,5 @@
 
 <p align="center">
   <sub>Small steps, little discoveries.</sub><br />
-  <sub>들러주셔서 고마워요 🩵</sub>
+  <sub>들러주셔서 감사합니다</sub>
 </p>
