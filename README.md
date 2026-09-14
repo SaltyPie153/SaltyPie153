@@ -2,7 +2,7 @@
   <img src="./assets/momonga.png" alt="하늘색 꼬리와 분홍 볼의 모몽가" width="190" />
 </p>
 
-<h1 align="center">SaltyPie153’s little corner ☁️</h1>
+<h1 align="center">SaltyPie153’s corner ☁️</h1>
 
 <p align="center">
   <b>안녕하세요, 강경훈입니다.</b><br />
