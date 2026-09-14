@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>안녕하세요, 강경훈입니다.</b><br />
-  조금씩 만들고, 배우고, 기록하는 공간이에요.<br /><br />
+  <br />개발 기록 저장소<br />
   <sub>GyeongHoon Kang &nbsp;·&nbsp; Seoul</sub>
 </p>
 
